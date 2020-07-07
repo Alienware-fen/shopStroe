@@ -1,0 +1,3 @@
+*.js linguist-language=MongoDB
+*.css linguist-language=MongoDB
+*.html linguist-language=MongoDB
